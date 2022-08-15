@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<Ucheba>
+		<item id = "a">
+			<Course>Технологии программирования</Course>
+			<Number>Зачет</Number>
+			<Begin>28.03.2022</Begin>
+			<End>15.04.2022</End>
+			<Teacher>Смольянинов А.В.</Teacher>
+		</item>
+		
+		<item id = "b">
+			<Course>Программирование на C#</Course>
+			<Number>Зачет</Number>
+			<Begin>12.05.2022</Begin>
+			<End>31.05.2022</End>
+			<Teacher>Смольянинов А.В.</Teacher>
+		</item>
+</Ucheba>

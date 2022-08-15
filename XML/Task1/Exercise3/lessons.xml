@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<Ucheba>
+	<myns:TimeTable xmlns:myns = 'http://www.itmo.ru/xml/lessons'>
+		<myns:item id = "a">
+			<myns:Course>Технологии программирования</myns:Course>
+			<myns:Number>Зачет</myns:Number>
+			<myns:Begin>28.03.2022</myns:Begin>
+			<myns:End>15.04.2022</myns:End>
+			<myns:Teacher>Смольянинов А.В.</myns:Teacher>
+		</myns:item>
+		
+		<myns:item id = "b">
+			<myns:Course>Программирование на C#</myns:Course>
+			<myns:Number>Зачет</myns:Number>
+			<myns:Begin>12.05.2022</myns:Begin>
+			<myns:End>31.05.2022</myns:End>
+			<myns:Teacher>Смольянинов А.В.</myns:Teacher>
+		</myns:item>
+
+	</myns:TimeTable>
+	
+	<myns:item xmlns:myns = 'https://www.bookvoed.ru/'>
+		<myns:item id = "1">
+			<myns:Nazv>C# 4.0 Полное руководство</myns:Nazv>
+			<myns:Edition>2013</myns:Edition>
+		</myns:item>
+	</myns:item>
+
+</Ucheba>

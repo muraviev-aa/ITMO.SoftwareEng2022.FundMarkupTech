@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<resume>
+	<candidate id = "a">
+		<Name>Ольга</Name>
+		<LastName>Соловьева</LastName>
+<PatronymicName>Петровна</PatronymicName>
+		<Age>26</Age>
+		<WorkPlace>ООО "Проект"</WorkPlace>
+		<Post>менеджер</Post>
+		<DateOfBirth>12.09.1996</DateOfBirth>
+		<Education>Высшее </Education>
+		<Address>СПб, ул. Ленина 3-5</Address>
+		<Phone>123-45-67</Phone>
+		<FamilyStatus>замужем</FamilyStatus>
+		<DesiredSalary currency = "RUR">30 000</DesiredSalary>
+	</candidate>
+	
+	<candidate id = "b">
+		<Name>Андрей</Name>
+		<LastName>Толочко</LastName>
+		<PatronymicName>Иванович</PatronymicName>
+		<Age>28</Age>
+		<WorkPlace>ООО "РусьСвет"</WorkPlace>
+		<Post>экономист</Post>
+		<DateOfBirth>02.03.1994</DateOfBirth>
+		<Education>Высшее </Education>
+		<Address>СПб, Серпуховская 13-9</Address>
+		<Phone>987-65-54</Phone>
+		<FamilyStatus>женат</FamilyStatus>
+		<DesiredSalary currency = "RUR">50 000</DesiredSalary>
+	</candidate>
+	
+	<candidate id = "c">
+		<Name>Софья</Name>
+		<LastName>Ощепкова</LastName>
+		<PatronymicName>Викторовна</PatronymicName>
+		<Age>31</Age>	
+		<WorkPlace>ООО "Строй"</WorkPlace>
+		<Post>менеджер по продажам</Post>
+		<DateOfBirth>19.12.1991</DateOfBirth>
+		<Education>Среднее</Education>
+		<Address>СПб, Желябова 13</Address>
+		<Phone>111-33-44</Phone>
+		<FamilyStatus>замужем</FamilyStatus>
+		<DesiredSalary currency = "RUR">25 000</DesiredSalary>
+	</candidate>
+</resume>
