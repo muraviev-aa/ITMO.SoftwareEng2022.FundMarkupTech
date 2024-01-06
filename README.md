@@ -2,7 +2,9 @@
 <a name="readme-top"></a>
 ### ИТМО 2022. Основы технологий разметки (HTML, XML)
 
+<p align="center">
 <img src="https://ic.wampi.ru/2022/09/26/HTML.jpg" alt="drawing" width="200"/> <img src="https://ic.wampi.ru/2022/09/26/XML.png" alt="drawing" width="200"/> <img src="https://ic.wampi.ru/2022/09/26/CSS.png" alt="drawing" width="200"/>
+</p>
 
 ***Состав репозитория:***
 
